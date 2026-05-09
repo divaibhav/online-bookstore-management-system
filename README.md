@@ -1,6 +1,3 @@
-
-
-```markdown
 # 📚 Online Bookstore Management System
 
 ## 📖 Project Statement
@@ -147,10 +144,6 @@ Use **Postman** to test all endpoints.
 - Postman collection for testing.  
 - Documentation in README or Swagger UI.  
 - Final demo showcasing each learner’s contribution.
-```
 
----
 
-This README gives your learners a **clear roadmap** and professional structure.  
 
-👉 Do you want me to also **add a “Getting Started” section with step-by-step commands** (clone repo, run Spring Boot, test endpoints) so they can follow along easily?
